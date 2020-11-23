@@ -1,0 +1,13 @@
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Cooking.exe.config
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Cooking.exe
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Cooking.pdb
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\MySql.Data.dll
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Google.Protobuf.dll
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\Renci.SshNet.dll
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\bin\Debug\MySql.Data.xml
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\obj\Debug\Cooking.csprojAssemblyReference.cache
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\obj\Debug\Cooking.csproj.CopyComplete
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\obj\Debug\Cooking.exe
+C:\Users\Quentin\Documents\A3\BDD\Cooking\Cooking\Cooking\obj\Debug\Cooking.pdb
